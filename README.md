@@ -5,13 +5,13 @@ Me chamo Rodrigo Quaresma, tenho 23 anos, sou paraibano, mas atualmente moro em 
 ## Tecnologias e Ferramentas
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps"/>
+    <img src="https://img.shields.io/badge/Azure-0072BC?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/SQL-005E99?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
 </div>
 
