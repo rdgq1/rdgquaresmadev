@@ -5,15 +5,17 @@ Me chamo Rodrigo Quaresma, tenho 23 anos, sou paraibano, mas atualmente moro em 
 ## Tecnologias e Ferramentas
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Azure-0072BC?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure" width="60"/>
     <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://camo.githubusercontent.com/9a02ae5823246e555c48c8b2311854ba4dfda91cc52b95a82481e4e6d973a616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e7578" alt="Linux"/>
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/SQL-005E99?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-    <img src="https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3"/>
-    <img src="https://camo.githubusercontent.com/593e976240a61edf61e5c7cde5f5972cd8b0be92c48ca02e53548b0bf8605671/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572" alt="Docker"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="60"/>
+    <img src="https://camo.githubusercontent.com/9c137a831035de366198774c3260403fa2415d06ad2153a30098022f2c4249a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f6f6f436f6c6f723d7768697465" alt="GitHub" width="60"/>
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL"  width="60"/>
+    <i class="devicon-grafana-plain-wordmark colored"  alt="Grafana" width="60"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"  alt="Jira" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="60" />
 </div>
 
 
