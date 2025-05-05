@@ -1,8 +1,6 @@
-# Olá! Eu sou Rodrigo Quaresma
-
--   👨‍💻 Hoje trabalho como Analista de Suporte e Infraestrutura
--   ☁️ Estudando Computação em Nuvem / DevOps Culture
-
+# Olá! Bem vindo ao meu GitHub
+Me chamo Rodrigo Quaresma, graduando em Sistemas para Internet, atualmente foco meus estudos em programação com C# e computação em nuvem.
+Trabalho como Analista de Suporte e Infraestrutura.
 
 
 ## Estatísticas do GitHub
@@ -17,14 +15,8 @@
 ## Redes Sociais
 
 <div align="center">
-<a href="https://www.youtube.com/seucanal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
 <a href="https://www.instagram.com/rdgq1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.twitch.tv/rdgq1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
 </a>
 <a href="https://discord.gg/rdgq1" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
