@@ -1,16 +1,15 @@
 # Olá! Bem-vindo ao meu GitHub
-Me chamo Rodrigo Quaresma, tenho 23 anos, sou paraibano, mas atualmente moro em Maringá, Paraná. Sou graduando em Sistemas para Internet e trabalho como Analista de Suporte e Infraestrutura. Atualmente, foco meus estudos em programação com C# e Computação em Nuvem, com o objetivo de me tornar um profissional DevOps.
+Me chamo Rodrigo Quaresma, tenho 23 anos, sou Paraibano, mas atualmente moro no Paraná. Sou graduando em Sistemas para Internet e trabalho como Analista de Suporte e Infraestrutura. Atualmente, foco meus estudos em programação com C# e Computação em Nuvem, com o objetivo de me tornar um profissional DevOps.
 
 
 ## Tecnologias e Ferramentas
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure" width="60"/>
-    <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="60"/>
-    <img src="https://camo.githubusercontent.com/9c137a831035de366198774c3260403fa2415d06ad2153a30098022f2c4249a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f6f6f436f6c6f723d7768697465" alt="GitHub" width="60"/>
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL"  width="60"/>
     <i class="devicon-grafana-plain-wordmark colored"  alt="Grafana" width="60"></i>
